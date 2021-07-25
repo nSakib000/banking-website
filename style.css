@@ -1,13 +1,23 @@
 body{
     margin: 0;
 }
+.title{
+    font-size: 63px;
+    font-weight: 900;
+}
 .btn-apply{
     color: #ffffff;
+    border: 0;
+    padding: 8px 15px;
     background-color: #ED017F;
+    border-radius: 5px;
 }
 .btn-loan-calculator{
     border: 1px solid #ED017F;
     color: #ED017F;
+    background-color: #ffffff;
+    padding: 8px 15px;
+    border-radius: 5px;
 }
 .family-img img{
     background: #FFEAF5;
@@ -15,9 +25,30 @@ body{
 .partners{
     background: rgba(252, 224, 239, 0.2);
 }
+small{
+    color: #ED017F;
+}
 .service{
     background-color: #FEF9FC;
 }
+#lp{
+    color: #ED017F;
+}
 .newsletter{
     background-color: #FEF9FC;
+}
+.fa-phone-alt{
+    color: #ED017F;
+}
+.social-links .fa-facebook-f{
+    color: #4169e1;
+}
+.social-links .fa-youtube{
+    color: #ff0000;
+}
+.social-links .fa-linkedin-in{
+    color: #4169e1;
+}
+.social-links .fa-instagram{
+    color: #ED017F;
 }
