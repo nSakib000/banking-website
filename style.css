@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+.btn-apply{
+    color: #ffffff;
+    background-color: #ED017F;
+}
+.btn-loan-calculator{
+    border: 1px solid #ED017F;
+    color: #ED017F;
+}
+.family-img img{
+    background: #FFEAF5;
+}
+.partners{
+    background: rgba(252, 224, 239, 0.2);
+}
+.service{
+    background-color: #FEF9FC;
+}
+.newsletter{
+    background-color: #FEF9FC;
+}
